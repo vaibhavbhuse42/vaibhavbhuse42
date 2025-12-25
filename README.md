@@ -37,4 +37,54 @@
 |17 | mirror-repo | GitHub mirror repository | Git |
 |18 | Three-Tire-Architecture | PHP based 3-Tier architecture | AWS, PHP |
 |19 | git-22-sept-devops | DevOps Git practice repository | Git |
-|20 |
+|20 | sample-node-file | Sample Node.js application | Node.js |
+|21 | git-repo | Git fundamentals repository | Git |
+|22 | Web-Application | Web App with EC2, S3, CloudFront & RDS | AWS |
+
+---
+
+## 🛠️ Skills & Tools  
+
+### ☁️ Cloud  
+- AWS (EC2, S3, RDS, CloudFront)
+
+### ⚙️ DevOps Tools  
+- Jenkins  
+- Terraform  
+- Ansible  
+- Git & GitHub  
+
+### 💻 Languages  
+- Bash  
+- Python  
+- Java  
+- JavaScript  
+
+### 🐧 Operating System  
+- Linux  
+
+### 🌐 Web Technologies  
+- HTML  
+- PHP  
+- Angular  
+- Node.js  
+
+---
+
+## 📈 GitHub Activity  
+
+- 🔁 Regular hands-on practice with **CI/CD & IaC**
+- 🚀 Real-world deployment projects
+- 📚 Continuous learning & experimentation
+
+---
+
+## 🌐 Connect With Me  
+
+- 💻 GitHub: **vaibhavbhuse42**  
+- 🔗 LinkedIn: *(add your link)*  
+- ✍️ Medium: *(add your link)*  
+
+---
+
+⭐ **“Practice daily, automate everything, and deploy with confidence.”**
