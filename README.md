@@ -1,21 +1,40 @@
-# 👨‍💻 Vaibhav Navnath Bhuse
-🚀 DevOps Engineer | AWS | Ansible | Terraform | Linux
+# 👋 Hi, I'm Vaibhav Bhuse  
+
+🚀 **DevOps & Cloud Enthusiast | AWS | Terraform | Ansible | Jenkins**
 
 ---
 
-## 📊 Technical Overview
+## 👨‍💻 About Me  
 
-| Domain | Skills / Tools | Projects |
-|------|----------------|----------|
-| Cloud Computing | AWS (EC2, VPC, S3, IAM) | AWS Infrastructure Automation using Terraform |
-| DevOps | CI/CD, Automation, IaC | End-to-End DevOps Projects |
-| Configuration Management | Ansible | 2-Tier Application Deployment using Ansible |
-| Infrastructure as Code | Terraform | VPC, Subnets, IGW, EC2 with Remote Backend |
-| Web Server | Nginx, Apache | Nginx Web Server Automation |
-| Database | MySQL, MariaDB | MariaDB Setup & Database Automation |
-| Operating System | Amazon Linux, RHEL | Linux Server Automation |
-| Version Control | Git, GitHub | GitHub Project Repositories |
+- ☁️ Passionate about **AWS & DevOps tools**
+- ⚙️ Hands-on experience with **Terraform, Ansible, Jenkins & CI/CD**
+- 🐧 Strong knowledge of **Linux & Shell Scripting**
+- 🚀 Love building **real-world infrastructure & automation projects**
+- 📚 Continuous learner, focused on **Cloud & DevOps best practices**
 
 ---
 
-⭐ *If you like my work, please give a star to this repository* ⭐
+## 🚀 GitHub Projects
+
+| No. | 📦 Repository Name | 📝 Description | 🛠️ Tech Stack |
+|----|-------------------|---------------|--------------|
+| 1 | 2-Tire-Project-Ansible | 2-Tier application deployment using Ansible | Ansible, Linux |
+| 2 | Ansible-httpd-role | Apache HTTPD role-based deployment | Ansible, Apache |
+| 3 | terraform-aws-3tier-architecture | 3-Tier AWS architecture using Terraform | Terraform, AWS |
+| 4 | 2-Tire-Project-Terraform | 2-Tier infrastructure using Terraform | Terraform, AWS |
+| 5 | terraform-test | Terraform practice & testing configurations | Terraform |
+| 6 | Static-Website-CI-CD-Deployment-using-Terraform-and-Jenkins | Static website CI/CD deployment | Jenkins, Terraform |
+| 7 | Terraform-Jenkins-deploye-Jarvis-Desktop-Voice-Assistant | CI/CD automation for Python project | Jenkins, Terraform, Python |
+| 8 | portfolio-app-deployment-CICD | Portfolio website CI/CD pipeline | Jenkins, HTML |
+| 9 | Angular-Farm-ToExport | Angular-based web application | Angular, HTML |
+|10 | student-app | Student management application | Java |
+|11 | pythonapp | Python application | Python |
+|12 | node-js-app-CICD | Node.js CI/CD deployment | Node.js, Jenkins |
+|13 | devops-22-jenkinsfile-repo | Jenkinsfile based pipelines | Jenkins |
+|14 | Node-App-On-Ec2 | Node.js application hosted on EC2 | AWS EC2, Node.js |
+|15 | git-ignor-demo | Git ignore file demo | Git |
+|16 | private-mirror-repo | Repository mirroring demo | Git |
+|17 | mirror-repo | GitHub mirror repository | Git |
+|18 | Three-Tire-Architecture | PHP based 3-Tier architecture | AWS, PHP |
+|19 | git-22-sept-devops | DevOps Git practice repository | Git |
+|20 |
