@@ -1,84 +1,36 @@
-# 🚀 DevOps Projects Repository
+# 🚀 DevOps Projects
 
-Welcome to my DevOps project repository.  
-This repository contains **real-world DevOps automation & cloud projects**.
-
----
-
-## 👤 Author Information
-
-| Field | Details |
-|------|--------|
-| Name | Vaibhav Navnath Bhuse |
-| Role | DevOps Engineer |
-| Skills | AWS, Ansible, Terraform, Linux |
-| GitHub | https://github.com/your-username |
+This repository contains **hands-on DevOps & Cloud projects** built using
+industry-standard tools and best practices.
 
 ---
 
-## 🛠️ Technology Stack
+## 📂 Projects Table
 
-| Category | Tools |
-|--------|-------|
-| Cloud | AWS (EC2, VPC, S3, IAM) |
-| Automation | Ansible, Terraform |
-| Web Server | Nginx, Apache |
+| Sr No | Project Name | Description | Tools & Technologies |
+|-----|-------------|------------|---------------------|
+| 1 | 2-Tier Application Deployment | Automated deployment of Nginx + PHP app with MariaDB backend using Ansible | Ansible, Nginx, PHP, MariaDB, Linux |
+| 2 | AWS Infrastructure Automation | Provisioning VPC, Subnets, IGW, EC2 using Infrastructure as Code | Terraform, AWS |
+| 3 | LAMP Stack Automation | Apache, MySQL, PHP installation using Ansible playbook | Ansible, Apache, MySQL |
+| 4 | Nginx Web Server Setup | Automated Nginx installation and configuration | Ansible, Nginx |
+| 5 | Linux Server Automation | User management, package install, service control | Linux, Ansible |
+| 6 | Ansible Handlers Project | Service restart using handlers | Ansible |
+| 7 | Terraform Remote Backend | State management using S3 backend | Terraform, AWS S3 |
+
+---
+
+## 🧰 Tech Stack Used
+
+| Category | Technologies |
+|--------|--------------|
+| Cloud | AWS |
+| IaC | Terraform |
+| Configuration Mgmt | Ansible |
+| Web | Nginx, Apache |
 | Database | MySQL, MariaDB |
 | OS | Amazon Linux, RHEL |
 | SCM | Git, GitHub |
 
 ---
 
-## 📂 Projects Overview
-
-| Project Name | Description | Tools Used |
-|-------------|------------|-----------|
-| 2-Tier App Deployment | Nginx + PHP + MariaDB using Ansible | Ansible, Linux |
-| AWS Infra Automation | VPC, EC2, Subnets using Terraform | Terraform, AWS |
-| LAMP Stack Setup | Apache, MySQL, PHP automation | Ansible |
-
----
-
-## 🏗️ 2-Tier Architecture Details
-
-| Layer | Server | Technology |
-|-----|--------|-----------|
-| Presentation Layer | App Server | Nginx + PHP |
-| Data Layer | DB Server | MariaDB |
-
----
-
-## ▶️ How to Run Ansible Project
-
-| Step | Command |
-|----|--------|
-| Check syntax | `ansible-playbook playbook.yml --syntax-check` |
-| Run playbook | `ansible-playbook playbook.yml -i inventory` |
-| Verify Web | `http://<app-server-ip>/index.php` |
-
----
-
-## 📸 Screenshots
-
-| Screenshot Type | Description |
-|---------------|------------|
-| Playbook Output | Ansible execution success |
-| Web Output | PHP info page |
-| DB Output | MySQL database creation |
-
-(Add screenshots here)
-
----
-
-## ✅ Conclusion
-
-| Point |
-|------|
-| Automated 2-tier deployment |
-| Infrastructure as Code approach |
-| Reusable & scalable playbooks |
-| Industry-level DevOps practice |
-
----
-
-⭐ If you like this repository, **give it a star** ⭐
+⭐ *If you like these projects, don’t forget to star the repository!*  
