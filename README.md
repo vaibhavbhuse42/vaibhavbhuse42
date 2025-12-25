@@ -1,67 +1,84 @@
-# Hi 👋, I'm Vaibhav Navnath Bhuse  
+# 🚀 DevOps Projects Repository
 
-🚀 **DevOps Engineer | AWS | Ansible | Terraform | Linux**
-
----
-
-## 👨‍💻 About Me  
-- 🔧 I am a passionate **DevOps Engineer**
-- ☁️ Working with **AWS Cloud**
-- ⚙️ Automation using **Ansible & Terraform**
-- 🐧 Strong in **Linux Administration**
-- 📦 Experience in **CI/CD & Infrastructure Automation**
+Welcome to my DevOps project repository.  
+This repository contains **real-world DevOps automation & cloud projects**.
 
 ---
 
-## 🛠️ Skills & Tools  
+## 👤 Author Information
 
-### ☁️ Cloud
-- AWS (EC2, VPC, S3, IAM)
-
-### ⚙️ DevOps & Automation
-- Ansible  
-- Terraform  
-- Git & GitHub  
-
-### 🐧 OS & Servers
-- Linux (Amazon Linux, RHEL)
-- Nginx, Apache
-- MySQL / MariaDB
+| Field | Details |
+|------|--------|
+| Name | Vaibhav Navnath Bhuse |
+| Role | DevOps Engineer |
+| Skills | AWS, Ansible, Terraform, Linux |
+| GitHub | https://github.com/your-username |
 
 ---
 
-## 📂 Featured Projects  
+## 🛠️ Technology Stack
 
-### 🔹 2-Tier Application Deployment using Ansible
-- App Server: Nginx + PHP  
-- DB Server: MariaDB  
-- Fully automated using Ansible  
-
-👉 Repository:  
-[2-Tier-Ansible-Project](https://github.com/your-username/2-tier-ansible)
-
----
-
-### 🔹 AWS Infrastructure using Terraform
-- VPC, Subnets, IGW, EC2
-- Remote backend with S3
-
-👉 Repository:  
-[Terraform-AWS-Project](https://github.com/your-username/terraform-aws)
+| Category | Tools |
+|--------|-------|
+| Cloud | AWS (EC2, VPC, S3, IAM) |
+| Automation | Ansible, Terraform |
+| Web Server | Nginx, Apache |
+| Database | MySQL, MariaDB |
+| OS | Amazon Linux, RHEL |
+| SCM | Git, GitHub |
 
 ---
 
-## 📊 GitHub Stats  
+## 📂 Projects Overview
 
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
----
-
-## 🔗 Connect with Me  
-
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: yourmail@gmail.com  
+| Project Name | Description | Tools Used |
+|-------------|------------|-----------|
+| 2-Tier App Deployment | Nginx + PHP + MariaDB using Ansible | Ansible, Linux |
+| AWS Infra Automation | VPC, EC2, Subnets using Terraform | Terraform, AWS |
+| LAMP Stack Setup | Apache, MySQL, PHP automation | Ansible |
 
 ---
 
-⭐ *If you like my work, give a star to my repositories!*  
+## 🏗️ 2-Tier Architecture Details
+
+| Layer | Server | Technology |
+|-----|--------|-----------|
+| Presentation Layer | App Server | Nginx + PHP |
+| Data Layer | DB Server | MariaDB |
+
+---
+
+## ▶️ How to Run Ansible Project
+
+| Step | Command |
+|----|--------|
+| Check syntax | `ansible-playbook playbook.yml --syntax-check` |
+| Run playbook | `ansible-playbook playbook.yml -i inventory` |
+| Verify Web | `http://<app-server-ip>/index.php` |
+
+---
+
+## 📸 Screenshots
+
+| Screenshot Type | Description |
+|---------------|------------|
+| Playbook Output | Ansible execution success |
+| Web Output | PHP info page |
+| DB Output | MySQL database creation |
+
+(Add screenshots here)
+
+---
+
+## ✅ Conclusion
+
+| Point |
+|------|
+| Automated 2-tier deployment |
+| Infrastructure as Code approach |
+| Reusable & scalable playbooks |
+| Industry-level DevOps practice |
+
+---
+
+⭐ If you like this repository, **give it a star** ⭐
