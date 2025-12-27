@@ -1,19 +1,23 @@
-<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 40px; border-radius: 15px;">
+<div align="center">
 
-  <h1 style="color: #ffffff; font-size: 42px; margin-bottom: 10px;">
-    👋 Hi, I'm <span style="color:#00eaff;">Vaibhav Bhuse</span>
-  </h1>
+  <div style="background: linear-gradient(120deg, #1e3c72, #2a5298); padding: 45px; border-radius: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
 
-  <h3 style="color: #d1d5db; font-weight: normal;">
-    🚀 DevOps & Cloud Enthusiast | AWS | Terraform | Ansible | Jenkins
-  </h3>
+    <h1 style="font-size: 46px; color: #ffffff; margin-bottom: 8px;">
+      👋 Hi, I'm <span style="color:#00ffd5;">Vaibhav Bhuse</span>
+    </h1>
 
-  <br/>
+    <h3 style="color:#e5e7eb; font-weight: 500;">
+      🚀 DevOps & Cloud Enthusiast | AWS | Terraform | Ansible | Jenkins
+    </h3>
 
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform"/>
-  <img src="https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible"/>
-  <img src="https://img.shields.io/badge/Jenkins-CI/CD-blue?style=for-the-badge&logo=jenkins"/>
+    <br/>
+
+    <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+    <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform"/>
+    <img src="https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible"/>
+    <img src="https://img.shields.io/badge/Jenkins-CI/CD-blue?style=for-the-badge&logo=jenkins"/>
+
+  </div>
 
 </div>
 
