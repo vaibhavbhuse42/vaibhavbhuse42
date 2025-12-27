@@ -1,25 +1,18 @@
-<div align="center">
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi,%20I'm%20Vaibhav%20Bhuse&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
 
-  <div style="background: linear-gradient(120deg, #1e3c72, #2a5298); padding: 45px; border-radius: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
+<h3 align="center">
+🚀 DevOps & Cloud Enthusiast | AWS | Terraform | Ansible | Jenkins
+</h3>
 
-    <h1 style="font-size: 46px; color: #ffffff; margin-bottom: 8px;">
-      👋 Hi, I'm <span style="color:#00ffd5;">Vaibhav Bhuse</span>
-    </h1>
-
-    <h3 style="color:#e5e7eb; font-weight: 500;">
-      🚀 DevOps & Cloud Enthusiast | AWS | Terraform | Ansible | Jenkins
-    </h3>
-
-    <br/>
-
-    <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
-    <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform"/>
-    <img src="https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible"/>
-    <img src="https://img.shields.io/badge/Jenkins-CI/CD-blue?style=for-the-badge&logo=jenkins"/>
-
-  </div>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform"/>
+  <img src="https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible"/>
+  <img src="https://img.shields.io/badge/Jenkins-CI/CD-blue?style=for-the-badge&logo=jenkins"/>
+</p>
 
 ---
 
@@ -35,30 +28,30 @@
 
 ## 🚀 GitHub Projects  
 
-| No. | 📦 Repository Name | 📝 Description | 🛠️ Tech Stack |
-|----|-------------------|---------------|--------------|
-| 1 | 2-Tire-Project-Ansible | 2-Tier application deployment using Ansible | Ansible, Linux |
-| 2 | Ansible-httpd-role | Apache HTTPD role-based deployment | Ansible, Apache |
-| 3 | terraform-aws-3tier-architecture | 3-Tier AWS architecture using Terraform | Terraform, AWS |
-| 4 | 2-Tire-Project-Terraform | 2-Tier infrastructure using Terraform | Terraform, AWS |
-| 5 | terraform-test | Terraform practice & testing configurations | Terraform |
-| 6 | Static-Website-CI-CD-Deployment-using-Terraform-and-Jenkins | Static website CI/CD deployment | Jenkins, Terraform |
-| 7 | Terraform-Jenkins-deploye-Jarvis-Desktop-Voice-Assistant | CI/CD automation for Python project | Jenkins, Terraform, Python |
-| 8 | portfolio-app-deployment-CICD | Portfolio website CI/CD pipeline | Jenkins, HTML |
-| 9 | Angular-Farm-ToExport | Angular-based web application | Angular, HTML |
-|10 | student-app | Student management application | Java |
-|11 | pythonapp | Python application | Python |
-|12 | node-js-app-CICD | Node.js CI/CD deployment | Node.js, Jenkins |
-|13 | devops-22-jenkinsfile-repo | Jenkinsfile based pipelines | Jenkins |
-|14 | Node-App-On-Ec2 | Node.js application hosted on EC2 | AWS EC2, Node.js |
-|15 | git-ignor-demo | Git ignore file demo | Git |
-|16 | private-mirror-repo | Repository mirroring demo | Git |
-|17 | mirror-repo | GitHub mirror repository | Git |
-|18 | Three-Tire-Architecture | PHP based 3-Tier architecture | AWS, PHP |
-|19 | git-22-sept-devops | DevOps Git practice repository | Git |
-|20 | sample-node-file | Sample Node.js application | Node.js |
-|21 | git-repo | Git fundamentals repository | Git |
-|22 | Web-Application | Web App with EC2, S3, CloudFront & RDS | AWS |
+| No. | Repository Name | Description | Tech Stack |
+|----|-----------------|-------------|------------|
+| 1 | 2-Tire-Project-Ansible | 2-Tier application deployment | Ansible, Linux |
+| 2 | Ansible-httpd-role | Apache HTTPD role deployment | Ansible |
+| 3 | terraform-aws-3tier-architecture | 3-Tier AWS infra | Terraform, AWS |
+| 4 | 2-Tire-Project-Terraform | 2-Tier infra | Terraform |
+| 5 | terraform-test | Terraform practice | Terraform |
+| 6 | Static-Website-CI-CD-Deployment-using-Terraform-and-Jenkins | CI/CD static site | Jenkins, Terraform |
+| 7 | Terraform-Jenkins-deploye-Jarvis-Desktop-Voice-Assistant | Python CI/CD | Jenkins, Python |
+| 8 | portfolio-app-deployment-CICD | Portfolio CI/CD | Jenkins, HTML |
+| 9 | Angular-Farm-ToExport | Angular app | Angular |
+|10 | student-app | Student app | Java |
+|11 | pythonapp | Python app | Python |
+|12 | node-js-app-CICD | Node CI/CD | Node.js |
+|13 | devops-22-jenkinsfile-repo | Jenkins pipelines | Jenkins |
+|14 | Node-App-On-Ec2 | Node app on EC2 | AWS |
+|15 | git-ignor-demo | Git ignore demo | Git |
+|16 | private-mirror-repo | Repo mirroring | Git |
+|17 | mirror-repo | GitHub mirror | Git |
+|18 | Three-Tire-Architecture | PHP 3-tier app | AWS |
+|19 | git-22-sept-devops | Git practice | Git |
+|20 | sample-node-file | Node sample | Node.js |
+|21 | git-repo | Git basics | Git |
+|22 | Web-Application | EC2 + S3 + RDS app | AWS |
 
 ---
 
@@ -67,7 +60,7 @@
 ### ☁️ Cloud  
 - AWS (EC2, S3, RDS, CloudFront)
 
-### ⚙️ DevOps Tools  
+### ⚙️ DevOps  
 - Jenkins  
 - Terraform  
 - Ansible  
@@ -79,10 +72,10 @@
 - Java  
 - JavaScript  
 
-### 🐧 Operating System  
+### 🐧 OS  
 - Linux  
 
-### 🌐 Web Technologies  
+### 🌐 Web  
 - HTML  
 - PHP  
 - Angular  
@@ -90,20 +83,12 @@
 
 ---
 
-## 📈 GitHub Activity  
-
-- 🔁 Regular hands-on practice with **CI/CD & IaC**
-- 🚀 Real-world deployment projects
-- 📚 Continuous learning & experimentation
-
----
-
 ## 🌐 Connect With Me  
 
 - 💻 GitHub: **vaibhavbhuse42**  
-- 🔗 LinkedIn: *(add your link)*  
-- ✍️ Medium: *(add your link)*  
+- 🔗 LinkedIn: *(add link)*  
+- ✍️ Medium: *(add link)*  
 
 ---
 
-⭐ **“Practice daily, automate everything, and deploy with confidence.”**
+⭐ *Practice daily, automate everything, and deploy with confidence.*
